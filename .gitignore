@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+out-shakespeare-char/ckpt/data/*
+downloads_whls/*
